@@ -1,0 +1,15 @@
+{
+    "name": "juanjose/crudfinal",
+    "description": "Ultimo crud PHP",
+    "type": "project",
+    "license": "GNU",
+    "config": {
+        "optimize-autoloader": true
+    },
+    "autoload": {
+        "psr-4": {
+            "Clases\\": "clases"
+        }
+    },
+    "require": {}
+}
